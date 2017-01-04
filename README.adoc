@@ -1,6 +1,7 @@
 = asciidoc_test
 :toc:
 :toc-placement!:
+:numbered:
 
 toc::[]
 
