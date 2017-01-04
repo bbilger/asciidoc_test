@@ -1,5 +1,7 @@
 = asciidoc_test
 
+:toc:
+
 == 1
 
 === 1.1
