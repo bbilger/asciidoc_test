@@ -7,3 +7,7 @@ toc::[]
 == 1
 
 === 1.1
+
+ifdef::env-github[]
+hi
+endif::[]
