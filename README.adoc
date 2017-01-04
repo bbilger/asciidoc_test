@@ -1,6 +1,8 @@
 = asciidoc_test
-
 :toc:
+:toc-placement!:
+
+toc::[]
 
 == 1
 
